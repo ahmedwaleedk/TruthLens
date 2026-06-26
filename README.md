@@ -18,16 +18,6 @@ With the rapid spread of misinformation across social media and online news plat
 
 ---
 
-## 🛠 Technologies Used
-
-- Python
-- Flask
-- Machine Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- HTML
-- CSS
-- JavaScript
 
 ---
 
