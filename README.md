@@ -79,6 +79,7 @@ python app.py
 ## 👨‍💻 Developed By
 
 - Ahmed Waleed
+- omaraly
 
 ---
 
